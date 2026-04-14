@@ -1,3 +1,6 @@
+#include <iostream>
+#include
+
 #include <SFML/Graphics.hpp>
 
 int main()
